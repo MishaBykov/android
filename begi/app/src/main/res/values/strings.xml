@@ -2,4 +2,5 @@
     <string name="app_name">begi</string>
     <string name="button">Button</string>
     <string name="kitty">Kitty</string>
+    <string name="name">Name</string>
 </resources>
